@@ -1,3 +1,6 @@
+// import css
+import '/css/output.css';
+
 
 const infoPanels = document.querySelectorAll('.info__panel');
 
